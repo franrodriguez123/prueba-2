@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/franrodr/subdosmains/prueba2/
-    - /bin/cp -R * $DEPLOYPATH
+    - /bin/cp -R *.html $DEPLOYPATH
