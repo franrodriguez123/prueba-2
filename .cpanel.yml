@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/franrodr/subdosmains/prueba2/
+    - /bin/cp -R * $DEPLOYPATH
